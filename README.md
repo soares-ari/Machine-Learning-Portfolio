@@ -12,7 +12,9 @@ O objetivo é demonstrar **entendimento técnico, raciocínio algorítmico e evo
 ### 1️⃣ [Data Preprocessing](./01_data-preprocessing)
 Exploração e preparação de dados brutos, limpeza, normalização e visualização.  
 Uso de bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**.  
-> Status: 🟡 *Em desenvolvimento*
+> Status: 🟢 *Concluído*
+> 🔗 [Notebook: Data Preprocessing (cars.csv)](./01_data-preprocessing/data_preprocessing_cars.ipynb)
+
 
 ---
 
