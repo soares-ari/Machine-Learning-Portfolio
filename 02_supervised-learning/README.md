@@ -19,3 +19,5 @@ Neste módulo, aplico algoritmos de **aprendizado supervisionado** para resolver
 ✔️ Visualização entre valores reais e previstos  
 ✔️ Dataset: cars_preprocessed.csv
 
+![Real vs Predicted](./linear_reg-real_vs_predict.png)
+
