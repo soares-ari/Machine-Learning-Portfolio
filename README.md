@@ -37,7 +37,7 @@ Uso de **FastAPI**, **Streamlit** e **Render** para deploy.
 
 ### 5️⃣ [Projects](./05_projects)
 Projetos completos que combinam todas as etapas anteriores.  
-- ✅ [Classificador de Eficiência de Carros]([#](https://car-efficiency-app-by-ari-soares.streamlit.app/)) — *Streamlit App*  
+- ✅ [Classificador de Eficiência de Carros](https://car-efficiency-app-by-ari-soares.streamlit.app/) — *Streamlit App*  
 - 🔜 Previsão de preços de imóveis  
 - 🔜 Análise de churn em telecomunicações  
 > Status: 🟢 *Ativo*
