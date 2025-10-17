@@ -21,7 +21,7 @@ Uso de bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**.
 ### 2️⃣ [Supervised Learning](./02_supervised-learning)
 Modelos supervisionados de **regressão e classificação** com **scikit-learn**.  
 Comparação de métricas (R², MAE, RMSE, AUC) e tuning de hiperparâmetros.  
-> Status: 🔵 *Planejado*
+> Status: 🔵 *Em andamento*
 
 ---
 
