@@ -83,27 +83,6 @@ Essa abordagem elimina diferenças sutis como `"US."` vs `"us"` e assegura estab
 
 ---
 
-### ☁️ Deploy
-O projeto pode ser facilmente publicado no **Streamlit Cloud**:
-1. Conecte o repositório do GitHub.  
-2. Defina o arquivo principal como `04_model-deployment/app.py`.  
-3. A plataforma instala automaticamente as dependências listadas em `requirements.txt`.
-
-Exemplo de execução local:
-```bash
-streamlit run app.py
-```
-
----
-
-### 📈 Próximos Passos
-- [ ] Adicionar testes unitários simples para validação do pipeline.  
-- [ ] Explorar novas arquiteturas de modelo (ex: Random Forest, Gradient Boosting).  
-- [ ] Publicar o app via Streamlit Cloud.  
-- [ ] Integrar logs e monitoramento básico (MLOps inicial).  
-
----
-
 ### ✅ Status
 **Concluído** — pipeline funcional, app interativo e arquitetura consistente.  
 **Próximo módulo:** [05_projects/](../05_projects/)
