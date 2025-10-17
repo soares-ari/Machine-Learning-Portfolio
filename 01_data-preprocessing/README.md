@@ -18,3 +18,5 @@ Este módulo foca na **preparação e exploração dos dados**, etapa fundamenta
 ✔️ Padronização de variáveis contínuas com `StandardScaler`  
 ✔️ Codificação de `brand` via `OneHotEncoder`  
 ✔️ Dataset exportado: `cars_preprocessed.csv`
+
+![Peso x Eficiência](./assets/Peso_Eficiencia_Marca.png)
