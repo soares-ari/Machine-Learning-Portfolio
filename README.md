@@ -1,3 +1,5 @@
+🌍 [Read this in English](./README_en.md)
+
 # 🧠 Machine Learning Portfolio
 
 Este repositório documenta minha trajetória prática em **Machine Learning**, organizada de forma progressiva — do pré-processamento de dados ao deploy de modelos em produção.  
