@@ -77,7 +77,7 @@ Essa abordagem elimina diferenças sutis como `"US."` vs `"us"` e assegura estab
 ---
 
 ### 🖼️ Exemplo Visual
-![App Preview](./assets/app_screenshot.png)
+![App Preview](./assets/app_preview.jpg)
 
 > Interface desenvolvida com Streamlit — o usuário insere parâmetros do veículo e obtém uma previsão instantânea de eficiência (mpg).
 
