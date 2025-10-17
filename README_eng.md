@@ -1,3 +1,5 @@
+🇧🇷 [Ler em português](./README.md)
+
 # 🧠 Machine Learning Portfolio
 
 This repository documents my practical journey through **Machine Learning**, organized progressively — from data preprocessing to model deployment.  
