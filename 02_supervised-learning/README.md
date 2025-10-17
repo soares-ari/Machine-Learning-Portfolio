@@ -11,4 +11,11 @@ Neste módulo, aplico algoritmos de **aprendizado supervisionado** para resolver
 `scikit-learn` · `Pandas` · `Matplotlib`
 
 ## 🚧 Status
-Planejado — próximos passos incluem regressão linear e árvore de decisão.
+📓 **Notebook disponível:**  
+[➡️ Supervised Learning — Linear Regression](./supervised-learning_cars.ipynb)
+
+✔️ Tratamento automático da coluna duplicada `remainder__mpg`  
+✔️ Modelo de Regressão Linear treinado e avaliado  
+✔️ Visualização entre valores reais e previstos  
+✔️ Dataset: cars_preprocessed.csv
+
