@@ -22,6 +22,8 @@ Uso de bibliotecas como **Pandas**, **NumPy**, **Matplotlib** e **Seaborn**.
 Modelos supervisionados de **regressão e classificação** com **scikit-learn**.  
 Comparação de métricas (R², MAE, RMSE, AUC) e tuning de hiperparâmetros.  
 > Status: 🔵 *Em andamento*
+> 🔗 [Notebook: Linear Regression (cars.csv)](./02_supervised-learning/supervised-learning_cars.ipynb)
+
 
 ---
 
