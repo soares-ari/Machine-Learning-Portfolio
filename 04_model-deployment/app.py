@@ -2,15 +2,23 @@ import streamlit as st
 import pandas as pd
 import joblib
 from custom_transformers import CleanBrandTransformer
-
+from pathlib import Path
 
 st.set_page_config(page_title="Car Efficiency Predictor", page_icon="🚗", layout="centered")
 st.title("🚗 Previsão de Eficiência de Carros (mpg)")
 st.markdown("Pipeline com **pré-processamento + modelo** (scikit-learn).")
 
 # Carregar artefatos
-pipe = joblib.load("pipeline.pkl")
-schema = joblib.load("schema.joblib")
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = BASE_DIR / "pipeline.pkl"
+SCHEMA_PATH = BASE_DIR / "schema.joblib"
+
+if not MODEL_PATH.exists() or not SCHEMA_PATH.exists():
+    st.error(f"🚫 Arquivos do modelo não encontrados em: {BASE_DIR}")
+    st.stop()
+
+pipe = joblib.load(MODEL_PATH)
+schema = joblib.load(SCHEMA_PATH)
 
 num_features = schema["num_features"]
 cat_features = schema["cat_features"]
