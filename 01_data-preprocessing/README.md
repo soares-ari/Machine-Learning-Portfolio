@@ -11,4 +11,10 @@ Este módulo foca na **preparação e exploração dos dados**, etapa fundamenta
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
 ## 🚧 Status
-Em desenvolvimento — primeiros notebooks de análise exploratória usando *cars.csv*.
+📓 **Notebook disponível:**  
+[➡️ data_preprocessing.ipynb](./data_preprocessing.ipynb)
+
+✔️ Conversão de tipos incorretos (`cubicinches`, `weightlbs`)  
+✔️ Padronização de variáveis contínuas com `StandardScaler`  
+✔️ Codificação de `brand` via `OneHotEncoder`  
+✔️ Dataset exportado: `cars_preprocessed.csv`
