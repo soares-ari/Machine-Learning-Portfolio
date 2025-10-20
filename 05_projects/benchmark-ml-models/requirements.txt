@@ -1,0 +1,20 @@
+# Bibliotecas principais
+numpy
+pandas
+scikit-learn
+
+# Visualização
+matplotlib
+seaborn
+
+# Utilitários extras
+jupyter
+notebook
+
+# (Opcional) Para gráficos interativos e dashboards
+plotly
+streamlit
+
+# (Opcional) Para explicabilidade de modelos
+shap
+lime
