@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos temporários e caches
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dados grandes ou sensíveis (se aplicável)
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
